@@ -12,7 +12,7 @@ A passionate **Full Stack Developer** from Ukraine, dedicated to crafting **inno
 
 ### Front-end
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,less,js,jquery,vue&perline=7)](#)
-<img src="assets/pinia.png" alt="pinia" width="50" height="50" style="border-radius: 25%; display: inline-block;"/>
+<img src="assets/pinia.png" alt="pinia" width="50" height="50" style="border-radius: 25px; display: inline-block;"/>
 <img src="assets/vue-router.jpg" alt="vue-router" width="50" height="50" style="border-radius: 25%; display: inline-block;"/>
 ### Back-end
 [![My Skills](https://skillicons.dev/icons?i=python,django,fastapi)](#) <img src="assets/django_rest.png" alt="Django REST" width="50" height="50" style="border-radius: 25%;" /> <img src="assets/celery.png" alt="selery" width="50" height="50" style="border-radius: 25%;" /> <img src="assets/telegram-api.png" alt="telegram-api" width="50" height="50" style="border-radius: 25%;" />
