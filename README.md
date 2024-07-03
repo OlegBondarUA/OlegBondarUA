@@ -7,6 +7,12 @@
 A passionate **Full Stack Developer** from Ukraine, dedicated to crafting **innovative**, **responsive**, and **user-friendly** digital products. I thrive on transforming complex challenges into seamless and enjoyable web experiences, ensuring **inclusivity** and **accessibility** for all users.
 - Open to project collaborations
 - You can reach me through: <a href="mailto:olegbondarwork@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/oleg-bondar-full-stack/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> <a href="https://t.me/bondar_olegua" title="Telegram"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30" align="center"/></a>
+##
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_OlegBondarUA/count.svg" />
+</p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**
 
