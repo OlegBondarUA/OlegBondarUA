@@ -16,7 +16,7 @@ A passionate **Full Stack Developer** based in Ukraine, dedicated to crafting **
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,less,js,jquery,vue,pinia,vite&perline=7)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,less,js,jquery,vue,pinia,vite&perline=9)](#)
 [![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,flask,nginx,bots&perline=7)](#)
 [![My Skills](https://skillicons.dev/icons?i=postgres,redis,selenium,sentry&perline=7)](#)
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,figma,postman,pycharm,vscode&perline=7)](#)
